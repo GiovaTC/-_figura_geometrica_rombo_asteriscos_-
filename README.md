@@ -3,6 +3,8 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2fd9e650-3992-4cbb-89dd-daa0bc4559d4" />  
 
+<img width="1280" height="1079" alt="image" src="https://github.com/user-attachments/assets/45ca2e62-2974-4a71-b033-784ece18486b" />    
+
 ```
 Aplicacion de consola desarrollada en **C#** utilizando **Visual Studio 2022** que imprime una figura geométrica en forma de **rombo**, empleando únicamente caracteres de asterisco (`*`) .
 
